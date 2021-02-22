@@ -4,6 +4,7 @@ This is a Application Development project. A web Application is build using Node
 A python code is written that can control the devices using web application. Before running te python code it is necessary to download ibmiot package that can connect our device can be able to run. 
 Web Application Dashboard : 
 http://127.0.0.1:1880/ui/#!/0?socketid=r5PfEFibLezBAFeDAAAA
-
+node-red flow link:
+http://127.0.0.1:1880/#flow/49834bbf.6158c4
 Project demo video:
 https://drive.google.com/file/d/10YLgBpXPc3GESlhMMqZyuXCqj6mSACZf/view?usp=sharing
